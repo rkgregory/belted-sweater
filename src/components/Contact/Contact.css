@@ -45,7 +45,7 @@
 .contact-email {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 .content-wrapper {
@@ -161,16 +161,7 @@
   .alert {
     padding: 10px;
   }
-  .contact-form-bg {
-    /* background-color: black; */
-    width: 600px;
-    height: 70vh;
-    margin: auto;
-    /* position: relative; */
-    /* top: 0px; */
-    padding-top: 50px;
-    margin-top: 30px;
-  }
+
   .contact-img {
     left: 0px;
   }
