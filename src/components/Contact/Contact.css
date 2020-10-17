@@ -36,8 +36,16 @@
 .contact-description {
   color: white;
   margin-top: 15px;
+  margin: auto;
+  text-align: center;
   /* font-weight: bold; */
   /* text-shadow: 3px 3px 5px rgb(88, 88, 88); */
+}
+
+.contact-email {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
 }
 
 .content-wrapper {
@@ -154,7 +162,7 @@
     padding: 10px;
   }
   .contact-form-bg {
-    background-color: black;
+    /* background-color: black; */
     width: 600px;
     height: 70vh;
     margin: auto;

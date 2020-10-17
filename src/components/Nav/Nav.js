@@ -67,7 +67,7 @@ const Nav = (props) => {
               <NavItem path="/contact" name="CONTACT" />
               <NavItem path="/video" name="VIDEO" />
               <NavItem path="/stems" name="NEWS" />
-              <NavItem path="/join" name="JOIN" />
+              {/* <NavItem path="/join" name="JOIN" /> */}
             </ul>
           </div>
         </nav>

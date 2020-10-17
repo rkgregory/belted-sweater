@@ -8,16 +8,18 @@ import Stems from "../components/Stems/Stems";
 import TheDullBlade from "../components/TheDullBlade/TheDullBlade";
 import Join from "../components/Join/Join";
 import RequestedShows from "../components/Map/RequestedShows";
+import Video from "../components/Video/Video";
 
 const routes = {
   "/": () => <Home />,
   "/about": () => <About />,
   "/contact": () => <Contact />,
   "/shows": () => <Shows />,
-  "/map": () => <Map />,
-  "/stems": () => <Stems />,
-  "/thedullblade": () => <TheDullBlade />,
+  // "/map": () => <Map />,
+  // "/stems": () => <Stems />,
+  // "/thedullblade": () => <TheDullBlade />,
   "/join": () => <Join />,
-  "/requested-shows": () => <RequestedShows />,
+  "/video": () => <Video />,
+  // "/requested-shows": () => <RequestedShows />,
 };
 export default routes;

@@ -19,7 +19,8 @@ function Shows(props) {
       <div className="container shows-container">
         <div className="content-wrapper">
           <h1 className="shows-header">SHOWS</h1>
-          <div className="shows-list">
+          <h2 className="shows-description">COMING SOON, WHENEVER IT'S SAFE</h2>
+          {/* <div className="shows-list">
             <h2 className="shows-location">LAS VEGAS</h2>
             <div className="shows-card">
               <h3 className="shows-info">
@@ -41,7 +42,7 @@ function Shows(props) {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 

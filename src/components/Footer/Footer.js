@@ -21,28 +21,46 @@ function Footer(props) {
 
           <div className="footer-icons">
             <a
-              href="https://www.instagram.com/kingyosef_/?hl=en"
+              href="https://www.instagram.com/beltedsweater/"
               target="_blank"
             >
               <i className="fa fa-instagram footer-icon"></i>
             </a>
             <a
-              href="https://twitter.com/KingYosef_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+              href="https://twitter.com/belted_sweater"
               target="_blank"
             >
               <i className="fa fa-twitter footer-icon"></i>
             </a>
             <a
-              href="https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
+              href="https://open.spotify.com/artist/6wbfybaJLHBTnqeMEk7B9z"
               target="_blank"
             >
               <i className="fa fa-spotify footer-icon"></i>
             </a>
             <a
-              href="https://www.youtube.com/channel/UCFhM2JJ2TTE1MbV0N7DuB2Q"
+              href="https://www.youtube.com/channel/UCZRyFVQuyDiq3klCeRHxN4g"
               target="_blank"
             >
               <i className="fa fa-youtube footer-icon"></i>
+            </a>
+            <a
+              href="https://music.apple.com/us/artist/belted-sweater/1531354292"
+              target="_blank"
+            >
+              <i className="fa fa-apple footer-icon"></i>
+            </a>
+            <a
+              href="https://soundcloud.com/christopher-gregory-197663152"
+              target="_blank"
+            >
+              <i className="fa fa-soundcloud footer-icon"></i>
+            </a>
+            <a
+              href="https://beltedsweater.bandcamp.com/"
+              target="_blank"
+            >
+              <i className="fa fa-bandcamp footer-icon"></i>
             </a>
           </div>
           <p className="footer-text">&copy; 2020 BELTED SWEATER</p>
