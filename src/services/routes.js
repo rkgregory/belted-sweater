@@ -9,10 +9,12 @@ import TheDullBlade from "../components/TheDullBlade/TheDullBlade";
 import Join from "../components/Join/Join";
 import RequestedShows from "../components/Map/RequestedShows";
 import Video from "../components/Video/Video";
+import Bio from "../components/Bio/Bio";
 
 const routes = {
   "/": () => <Home />,
   "/about": () => <About />,
+  "/bio": () => <Bio />,
   "/contact": () => <Contact />,
   "/shows": () => <Shows />,
   // "/map": () => <Map />,

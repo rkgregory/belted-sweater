@@ -18,7 +18,7 @@ function About(props) {
       <div className="about-container">
         <div className="about-h-container">
           <h1 className="about-header">BELTED SWEATER</h1>
-          <h2 className="about-bio">Belted Sweater is the solo project of Los Angeles based drummer Christopher Patrick Gregory. His debut LP, I'm fucking delightful, sounds like if Henry Rollins was in the Pet Shop Boys but with live drums and even gayer lyrics, chronicling terribly humiliating Grindr hookups and free clinic visits; basically Blood on the Tracks in the age of anonymous Craigslist encounters. He tracked all the instruments himself, like a moderately chubby amalgam of late period, leather daddy Trent Reznor and Dirty Mind-era Prince, using acoustic drums, synths and hoarse shouting.</h2>
+          
           {/* <h2 className="about-sub-header">
             <img src={BladeEmote} className="title-emote"></img>
             <p className="key-text">ENGINEER</p>
