@@ -62,7 +62,7 @@ const Nav = (props) => {
             id="navbarSupportedContent"
           >
             <ul className="navbar-nav mr-auto">
-              <NavItem path="/about" name="ABOUT" />
+              <NavItem path="/about" name="HOME" />
               <NavItem path="/shows" name="SHOWS" />
               <NavItem path="/contact" name="CONTACT" />
               <NavItem path="/video" name="VIDEO" />
