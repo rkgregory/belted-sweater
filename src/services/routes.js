@@ -10,6 +10,7 @@ import Join from "../components/Join/Join";
 import RequestedShows from "../components/Map/RequestedShows";
 import Video from "../components/Video/Video";
 import Bio from "../components/Bio/Bio";
+import News from "../components/News/News";
 
 const routes = {
   "/": () => <Home />,
@@ -17,6 +18,7 @@ const routes = {
   "/bio": () => <Bio />,
   "/contact": () => <Contact />,
   "/shows": () => <Shows />,
+  "/news": () => <News />,
   // "/map": () => <Map />,
   // "/stems": () => <Stems />,
   // "/thedullblade": () => <TheDullBlade />,
