@@ -16,9 +16,16 @@ function News(props) {
 
           {/* copy and paste from lines 18 to 21 to make a new post */}
           <div className="news-post">
-            <h2 className="news-title">NEW WEBSITE UPDATES/ <span className="news-date">DECEMBER 24, 2020</span> </h2>
+            <h2 className="news-title">TODAY'S TERRIBLE HITS <span className="news-date">FEBRUARY 15, 2021</span> </h2>
+            <p className="news-body">The aging homosexual charm offensive is on the new Terrible Records playlist with a bunch of other awesome tracks. Check it out <a href="https://open.spotify.com/playlist/2z60pBsqsjfQP3szueJRsE" target="_blank">here.</a></p>
+          </div>
+          
+          <div className="news-post">
+            <h2 className="news-title">NEW WEBSITE UPDATES <span className="news-date">DECEMBER 24, 2020</span> </h2>
             <p className="news-body">OMG</p>
           </div>
+
+          
 
           {/* <div className="news-post">
             <h2 className="news-title">CHRIS GREGORY MAKES STUPID NEWS SECTION ON WEBSITE / <span className="news-date">DECEMBER 24, 2020</span> </h2>

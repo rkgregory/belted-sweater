@@ -2,15 +2,17 @@
 
 ryan wuz here lol
 
+# testing
+- to start dev environment, type  "npm start"
+- to kill dev environment, click in terminal and press Control + C
+
 # git commands
 -  open belted-sweater folder in Downloads/website
 - if not in master, open terminal window by pressing Control + ~
 - type "git pull origin master" in terminal
 - good idea to type "npm i" into terminal every once in a while
-- to start dev environment, type  "npm start"
-- to kill dev environment, click in terminal and press Control + C
 - all changes will be made in src
-
+CONTROL TILDA ~ to bring up command line
 
 # pushing changes to git
 - save all your files
