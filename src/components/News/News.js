@@ -16,6 +16,9 @@ function News(props) {
 
           {/* copy and paste from lines 18 to 21 to make a new post */}
           <div className="news-post">
+            <h2 className="news-title">SWEET ALBUM REVIEW FROM GIRL AT THE ROCK SHOW <span className="news-date">FEBRUARY 25, 2021</span> </h2>
+            <p className="news-body">Read it <a href="https://girlattherockshows.com/2021/02/24/belted-sweater-im-fucking-delightful/" target="_blank">here.</a></p>
+          </div><div className="news-post">
             <h2 className="news-title">TODAY'S TERRIBLE HITS <span className="news-date">FEBRUARY 15, 2021</span> </h2>
             <p className="news-body">The aging homosexual charm offensive is on the new Terrible Records playlist with a bunch of other awesome tracks. Check it out <a href="https://open.spotify.com/playlist/2z60pBsqsjfQP3szueJRsE" target="_blank">here.</a></p>
           </div>
