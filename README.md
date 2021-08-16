@@ -1,6 +1,7 @@
 # Belted Sweater
 
 ryan wuz here lol
+Control C  brings up terminl
 
 # testing
 - to start dev environment, type  "npm start"
@@ -12,7 +13,7 @@ ryan wuz here lol
 - type "git pull origin master" in terminal
 - good idea to type "npm i" into terminal every once in a while
 - all changes will be made in src
-CONTROL TILDA ~ to bring up command line
+CONTROL TILDA ~ to bring up command linen
 
 # pushing changes to git
 - save all your files
