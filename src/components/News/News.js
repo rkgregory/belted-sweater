@@ -16,6 +16,14 @@ function News(props) {
 
           {/* copy and paste from lines 18 to 21 to make a new post */}
           <div className="news-post">
+            <h2 className="news-title">FREE SHOW 9/12 AT LITTLE JOY <span className="news-date">SEPTEMBER 3, 2021</span> </h2>
+            <p className="news-body">  With Hurt Hawks and Witchborn, proof of vaccination required, 21+, let's shred.</p>
+            </div>
+          <div className="news-post">
+            <h2 className="news-title">HAPPY SUNDAYS MUSIC FESTIVAL <span className="news-date">AUGUST 20, 2021</span> </h2>
+            <p className="news-body">  Super stoked to be playing this years Happy Sundays Free Music Festival in Long Beach on 8/29.  There's a ton of killer bands all day, a shuttle between venues, and its free! I'm playing the DiPiazza's stage at 6pm.</p>
+            </div>
+          <div className="news-post">
             <h2 className="news-title">DEBUT LIVE SHOW THIS THURSDAY!!! <span className="news-date">AUGUST 9, 2021</span> </h2>
             <p className="news-body">  Finally playing my first solo show this Thursday at the Que Sera for Queer Thursdays.  I’ll be shouting over ostentatious drum fills with some awesome bands, queer artists and also there’s a dance party so let’s boogie!  #MASK4MASK</p>
             </div>
